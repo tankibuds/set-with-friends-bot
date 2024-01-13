@@ -1,6 +1,6 @@
 # Set-with-Friends-Bot
 
-A simple userscript to bot the popular web game [Set with Friends](https://setwithfriends.com/).
+A simple jQuery userscript to bot the popular web game [Set with Friends](https://setwithfriends.com/).
 
 # Usage
 
