@@ -1,4 +1,4 @@
-# Set-with-Friends-Bot
+# Set-with-Friends-Solver
 
 A simple jQuery userscript to bot the popular web game [Set with Friends](https://setwithfriends.com/).
 
